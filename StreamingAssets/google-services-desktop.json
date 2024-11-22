@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1085863772277",
+    "project_id": "dndtest-firebase",
+    "storage_bucket": "dndtest-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085863772277:android:130e83ff2737b3d764783c",
+        "android_client_info": {
+          "package_name": "com.volcano.gametest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxT6vKpyOZul7gfkbd1fOKkicb5LImzeM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
